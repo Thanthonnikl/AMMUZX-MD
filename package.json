@@ -1,12 +1,12 @@
 {
-  "name": "baileys-integration-youtube",
+  "name": "AMMUZX-MD",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mohammed khan",
+  "author": "Thanthonnikl",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.3.1",
