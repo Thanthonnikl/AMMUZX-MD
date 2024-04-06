@@ -4,7 +4,7 @@ const {
 } = require("@whiskeysockets/baileys");
 const useMongoDBAuthState = require("./mongoAuthState");
 const makeWASocket = require("@whiskeysockets/baileys").default;
-const mongoURL = "mongodb+srv://Saif:Arhaan123@cluster0.mj6hd.mongodb.net";
+const mongoURL = "mongodb+srv://Ammu:<0t7JjPZ3AFF8O0Jj>@cluster0.zbstpkm.mongodb.net";
 const { MongoClient } = require("mongodb");
 
 async function connectionLogic() {
